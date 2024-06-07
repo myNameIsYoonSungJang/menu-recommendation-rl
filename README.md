@@ -10,4 +10,4 @@
 - 모델 상태를 저장하고 불러올 수 있는 체크포인트 기능
 
 ## 문서
-- [ 기획서 결과 보고서](https://github.com/myNameIsYoonSungJang/menu-recommendation-rl/tree/main/proposal)
+- [기획서 및 결과 보고서](https://github.com/myNameIsYoonSungJang/menu-recommendation-rl/tree/main/proposal)
